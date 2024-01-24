@@ -1,5 +1,5 @@
 footer {
-  background-color: #445069;
+  background-color: #94a89a;
   padding: 36px;
   color: #fff;
 }
@@ -46,5 +46,5 @@ footer svg {
   cursor: pointer;
 }
 footer svg:hover {
-  fill: #f00;
+  fill: #292529;
 }

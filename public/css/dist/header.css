@@ -81,7 +81,7 @@ body {
   transition: 1s ease;
 }
 .Header-nav ul li a:hover {
-  color: #f6b17a;
+  color: #94a89a;
 }
 .Header .is-active {
   transform: translateY(90%);
