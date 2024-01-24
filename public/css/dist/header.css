@@ -4,7 +4,7 @@ body {
 }
 .Header {
   margin: 0;
-  background-color: #252b48;
+  background-color: #292529;
 }
 .Header-wrapper {
   display: flex;
@@ -15,7 +15,7 @@ body {
   width: 100%;
   max-width: 1300px;
   z-index: 2;
-  background-color: #252b48;
+  background-color: #292529;
   margin: auto;
 }
 .Header-wrapper .logo {
@@ -50,7 +50,7 @@ body {
 .Header-nav {
   position: absolute;
   width: 100%;
-  background-color: #252b48;
+  background-color: #292529;
   margin: 0;
   height: 120px;
   left: 0;
@@ -81,7 +81,7 @@ body {
   transition: 1s ease;
 }
 .Header-nav ul li a:hover {
-  color: #f7e987;
+  color: #f6b17a;
 }
 .Header .is-active {
   transform: translateY(90%);
