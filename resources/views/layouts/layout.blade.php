@@ -36,13 +36,20 @@
         </header>
     <main>
         <div class="o_nas">
-            <h1>O nás</h1>
-            <p>Vítejte v restauraci Adnyalu, kde se setkáváme s bohatou tradicí české kuchyně spojenou s moderním gastronomickým
-                zážitkem. Naše kreativní tým šéfkuchařů pečlivě vybírá prvotřídní suroviny z lokálních farmářských trhů, aby vám
-                přinesl autentické a chutné pokrmy. U nás můžete ochutnat tradiční česká jídla v novém, inovativním provedení,
-                které podtrhuje naši lásku k domácím receptům. Atmosféra naší restaurace je teplá a přátelská, poskytující prostor
-                pro rodinné oslavy, romantická setkání nebo neformální večeře s přáteli. Přijďte si vychutnat lahodné momenty spojené
-                s českou kuchyní ve stylu Adnyalu!</p>
+            <div class="obrazek">
+                <img src="" alt="">
+                <img src="" alt="">
+                <img src="" alt="">
+            </div>
+            <div class="text_o_nas">
+                <h1>O nás</h1>
+                <p>Vítejte v restauraci Adnyalu, kde se setkáváme s bohatou tradicí české kuchyně spojenou s moderním gastronomickým
+                    zážitkem. Naše kreativní tým šéfkuchařů pečlivě vybírá prvotřídní suroviny z lokálních farmářských trhů, aby vám
+                    přinesl autentické a chutné pokrmy. U nás můžete ochutnat tradiční česká jídla v novém, inovativním provedení,
+                    které podtrhuje naši lásku k domácím receptům. Atmosféra naší restaurace je teplá a přátelská, poskytující prostor
+                    pro rodinné oslavy, romantická setkání nebo neformální večeře s přáteli. Přijďte si vychutnat lahodné momenty spojené
+                    s českou kuchyní ve stylu Adnyalu!</p>
+            </div>
         </div>
         <div class="nabidka">
             <h1>Denní nabídka</h1>
