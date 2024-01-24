@@ -17,7 +17,7 @@ footer .wrapper .ikons {
 footer .wrapper .ikons img {
   cursor: pointer;
 }
-footer ul {
+footer li {
   display: flex;
   flex-direction: column;
   gap: 10px;
