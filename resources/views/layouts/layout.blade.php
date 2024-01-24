@@ -37,9 +37,9 @@
     <main>
         <div class="o_nas">
             <div class="obrazek">
+                <img src="img/ludek.jpg" alt="">
                 <img src="/img/adam.jpg" alt="">
                 <img src="img/ja.jpg" alt="">
-                <img src="img/ludek.jpg" alt="">
             </div>
             <div class="text_o_nas">
                 <h1>O nás</h1>
