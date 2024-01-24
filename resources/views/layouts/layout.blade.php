@@ -44,6 +44,9 @@
                 pro rodinné oslavy, romantická setkání nebo neformální večeře s přáteli. Přijďte si vychutnat lahodné momenty spojené
                 s českou kuchyní ve stylu Adnyalu!</p>
         </div>
+        <div class="nabidka">
+            <h1>Denní nabídka</h1>
+        </div>
         <div class="wrapper">
             @yield("content")
         </div>
